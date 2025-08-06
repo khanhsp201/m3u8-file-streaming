@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5.005000,
+https://lh3.googleusercontent.com/d/1PVKz6KxodKnabGsEYisu6XRT0GzSkg3X
+#EXTINF:5.005000,
+https://lh3.googleusercontent.com/d/1B2hZKBYDHC5zuKJHK50_6yDGAjYneG-1
+#EXTINF:5.005000,
+https://lh3.googleusercontent.com/d/1RNKOQTS146ot6itQOfYHKvcxp30qeL4y
+#EXTINF:5.005000,
+https://lh3.googleusercontent.com/d/1USvgXAj8s5l-1rdv1V-6OCZxQgjrNoKi
